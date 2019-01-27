@@ -1,0 +1,24 @@
+## IntelliJ
+# from: https://raw.githubusercontent.com/github/gitignore/master/Global/JetBrains.gitignore
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Build
+out/
+
+## Python
+
+__pycache__/
+
+## Misc
+
+# temporary work that shouldn't generate git noise
+experimental/
+
+# Mac
+.DS_Store

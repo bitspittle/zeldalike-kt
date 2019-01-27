@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/game2d-backend-common/bitspittle.game2d.backend.common.iml" filepath="$PROJECT_DIR$/game2d-backend-common/bitspittle.game2d.backend.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game2d-backend-desktop/bitspittle.game2d.backend.desktop.iml" filepath="$PROJECT_DIR$/game2d-backend-desktop/bitspittle.game2d.backend.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game2d-core/bitspittle.game2d.core.iml" filepath="$PROJECT_DIR$/game2d-core/bitspittle.game2d.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game2d-extras/bitspittle.game2d.extras.iml" filepath="$PROJECT_DIR$/game2d-extras/bitspittle.game2d.extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zeldalike-desktop/bitspittle.zeldalike.desktop.iml" filepath="$PROJECT_DIR$/zeldalike-desktop/bitspittle.zeldalike.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zeldalike-game/bitspittle.zeldalike.game.iml" filepath="$PROJECT_DIR$/zeldalike-game/bitspittle.zeldalike.game.iml" />
+    </modules>
+  </component>
+</project>
