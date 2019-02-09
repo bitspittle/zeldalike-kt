@@ -2,7 +2,13 @@ package bitspittle.game2d.engine.api.input
 
 interface Keyboard {
     enum class Key {
-        ESC
+        ESC,
+
+        UP,
+        DOWN,
+        LEFT,
+        RIGHT,
+
         // TODO: Add way more keys!
     }
 
